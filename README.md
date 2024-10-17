@@ -24,7 +24,7 @@ Runs the app
 Setup First Account -------------------
 For first setup, you can crete an account using
 
-### `/user/register` [POST]
+### `/auth/register` [POST]
 
 with body payload :
 {
